@@ -1,0 +1,130 @@
+.light{
+    .darkil{
+        background:$ccolor;
+    }
+    section.home_contents {
+        background: rgb(255, 250, 250) ;
+        color: #111;
+    }
+    .side_nav {
+        width: 230px;
+        height: 100vh;
+        margin-right: 0px;
+    }
+    h2#headingThree{ a {
+        color: grey !important;
+        font-size: 15px;
+    }}
+    .slide_show {
+        background: #ebebeb;
+        position: relative;
+        margin-top:60px;
+        padding: 10px 12px;
+        border-radius: 10px;
+    }
+    .tableLocker {
+        background: #ebebeb;
+    }
+    span.ptnr {
+        position: absolute;
+        background: #ebebeb;
+        height: 100%;
+        border-top-left-radius:10px;
+        border-bottom-left-radius:10px;
+        top: 0%;
+        left: 0%;
+        padding: 0px 22px;
+        z-index: 4;
+        display: grid;
+        place-items: center;
+        font-size: 23px;
+        font-weight: bold;
+    }
+    .sNav a {
+        color: #111 !important;
+    }
+    .sNav{
+        i{color:$bcolor}
+       a:nth-child(1) {
+       color:$bcolor !important;
+   }}
+   .subWrap{
+    color:$bcolor;
+   } 
+   .homeTititleWrapFirstChild img {
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: #f5eeee;
+    padding: 9px;
+}
+.btnWraper button {
+    color: #111 !important;
+}
+.bnbButtonWrapper.my-3{
+    background:#f5eeee;
+}
+.home_s_box {
+    border: none !important;
+    box-shadow: none !important;
+    background: #ebebeb;
+}
+.col-12.col-md-12.col-lg-8.col-xl-8.rightPresale {
+    background: transparent;
+    border: none;
+}
+.sNav {
+    padding: 13px 15px;
+    border-radius: 10px;
+    margin-top: 30px;
+    border: none;
+    background: #ebebeb;
+}
+
+h2#headingThree a:hover {
+    color: #fff !important;
+    font-size: 15px;
+}
+
+
+.WalNav button {
+    
+    border: 1px solid #cacaca;
+   
+}
+.subCard .salFailed {
+   
+    background: rgb(152 153 159 / 31%);
+  
+    color: #161515;
+}
+
+.heartWrap a {
+    color: #e15b61;
+    border: 1px solid #bfb9ba;
+   font-weight:bold;
+}
+.searchBox {
+    padding: 5px 9px;
+    border-radius: 15px;
+    margin-top: 12px;
+    background: rgb(235 235 235);
+}
+.bnSub {
+    background: #e8e4e4;
+    border: none;
+    border-radius: 11px;
+    padding: 13px;
+    z-index: 10;
+    width: 100%;
+    position: absolute;
+    top: 200px;
+}
+.wrn01 {
+    margin-top: 60px;
+    padding: 20px 13px;
+    background: #e8e4e4;
+    border-radius: 16px;
+}
+}

@@ -1,0 +1,218 @@
+
+
+.dark{
+    .darkil{
+        background:$bcolor;
+    }
+    section.home_contents {
+        background:#181616;
+        color: #fff;
+    }
+    .side_nav {
+        width: 230px;
+        height: 100vh;
+        margin-right: 0px;
+       
+    }
+    h2#headingThree{ a {
+        color: grey !important;
+        font-size: 15px;
+    }}
+    .slide_show {
+        background: #20212A;
+        margin-top:60px;
+        position: relative;
+        padding: 1px 12px;
+        border-radius: 10px;
+    }
+    span.ptnr {
+        position: absolute;
+        background: #20212A;
+        
+        border-top-left-radius:10px;
+        border-bottom-left-radius:10px;
+        height: 100%;
+        top: 0%;
+        left: 0%;
+        padding: 0px 22px;
+        z-index: 4;
+        display: grid;
+        place-items: center;
+        font-size: 23px;
+        font-weight: bold;
+    }
+    .sNav a {
+        color: #fff !important;
+    }
+    .col-12.col-md-11.col-lg-11.col-xl-11.m-auto.leftPresale {
+        background:$bcolor;
+    }
+   .subWrap{
+    color:$ccolor;
+   } 
+   .homeTititleWrapFirstChild img {
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    object-fit: cover;
+    background: $bcolor;
+    padding: 9px;
+}
+.contribution_icon{
+    margin-right:20px;
+    padding:12px;
+    border-radius:13px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:50px;
+    width:50px;
+    background:$lblack !important;
+    i{font-size:30px;color:$ccolor !important}
+
+}.d-flex {
+    background:#161414
+}
+.side_nav{
+    background:#161414
+}
+.homeTitleWrap{
+    background:#20212A
+}
+.bnSub{
+    background: #20212a;
+    border: none;
+}
+.dataWrap{
+    background:#41464c61;
+}
+table.table {
+    background: #20212A;
+    color: #fff;
+}
+.btnWraper button {
+    color: #fff !important;
+}
+.btnWraper {
+    background: transparent;
+}
+.col-12.col-md-11.col-lg-11.col-xl-11.m-auto.leftPresale {
+    background: #20212A;
+   
+}
+.preinput:focus{
+    background:#161414;
+    color:$ccolor;
+}
+.preinput{
+    background:#161414;
+    color:$ccolor;
+}
+select.form-select.preinput {
+    color: #fff;
+}
+div#detailWrapi{
+    background:transparent;
+}
+.rightPresale {
+    background:#20212A;
+    border:none;
+}
+.bnbshowoff{
+    background:#9ca0a736;
+    border:none;
+}
+button.btn007{
+    background:#41464c;
+    color:$ccolor;
+}
+ul.tokengen {
+    background: rgb(78 76 76);
+    text-align: center;
+    list-style-type: none;
+    padding: 6px 0px;
+    border-radius: 20px;
+    position: relative;
+    li{
+        a{color:$ccolor}
+    }
+}
+ul.subtoken {
+  
+    background: #4a4848;
+    color: #fff;
+   
+}
+.preinput{
+    height: 38px;
+border-radius: 13px;
+background: #41464c8c;
+border: none;}
+.preinput:focus{
+    background:#262a2f;
+}
+.home_s_box {
+    border: none !important;
+    box-shadow: none !important;
+    background: #20212A;
+}
+.sNav{
+    background: #20212A;
+    padding: 13px 15px;
+    border-radius: 10px;
+    margin-top: 30px;
+    border:none;
+}
+button.connect {
+    box-shadow: none !important;
+    border: 2px solid #282d34;
+}
+button.connect:hover {
+    box-shadow: none !important;
+    background:$acolor;
+    border:none;
+    color:$ccolor;
+}
+.cwrapper {
+    background:#20212A;
+    padding: 34px 14px;
+    border-radius: 20px;
+}
+.col-12.col-md-12.col-lg-8.col-xl-8.rightPresale {
+    background: #20212A;
+}
+.lockTableInfo{
+    background:#20212A;
+}
+table.table {
+    background: #20212A;
+    border-radius: 22px;
+    padding:10px;
+}
+.subCard {
+    background: #20212A;
+    border: none !important;
+}
+.tableLocker {
+    background: #20212A;
+    border-radius: 20px;
+    padding: 0px 18px;
+    padding-bottom: 20px;
+}
+.contributionAmmount.mt-5 input {
+    border: none;
+    background: #34353e;
+    color:#fff;
+}
+.theTimer {
+    background: #34353e;
+    border-radius: 9px;
+    width: 59px;
+    display: grid;
+    height: 56px;
+    font-weight: bold;
+    place-items: center;
+    font-size: 26px;
+    position: relative;
+}
+}
